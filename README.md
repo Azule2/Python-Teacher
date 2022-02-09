@@ -1,7 +1,7 @@
 # Python-Teacher
 New Cours Python Teacher Code
 
-New Course Python writFile Desktop Path
+New Course Python TeacherCode
 <h1 align="center">Programming Language Python</h1>
 <h3 align="center">Python new Course</h3>
 
@@ -11,7 +11,7 @@ New Course Python writFile Desktop Path
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Python **Python writFile **
+- Python **Python TeacherCode **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
